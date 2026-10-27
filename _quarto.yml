@@ -8,7 +8,7 @@ website:
     left:
       - icon: book
         text: Bedre masterskriving for lærerstudenter
-        href: https://robast.quarto.pub/masterboka/
+        href: https://masterboka.roarstovner.no
       - icon: book
         text: Kvantitative metoder for lærere
         href: https://kvant.roarstovner.no
@@ -23,8 +23,15 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: cosmo
+      dark: cosmo
     css: styles.css
+    include-in-header:
+      text: |
+        <script data-goatcounter="https://masterboka.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
+
 
 
 
