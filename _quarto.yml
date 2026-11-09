@@ -3,11 +3,9 @@ project:
 
 website:
   title: "Roar Stovner"
-  description: "Roar Stovners personlige blogg"
+  description: "Roar Stovner akademiske nettsted"
   navbar:
     right:
-      # - text: Blogg
-      #   href: blogg.qmd
       - icon: github
         href: https://github.com/roarstovner
       - icon: bluesky

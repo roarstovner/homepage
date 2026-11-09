@@ -5,12 +5,12 @@ image: roarbs-press-crop.jpg
 about:
   template: trestles
   links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/roarstovner
-    - icon: bluesky
-      text: Bluesky
-      href: https://bsky.app/profile/roarstovner.bsky.social
+    - icon: person-vcard
+      text: NVA
+      href: https://nva.sikt.no/research-profile/788603
+    - icon: journal-text
+      text: OpenAlex
+      href: https://openalex.org/authors/a5025831405
 ---
 
 Jeg utdanner matematikklærere og forsker. Hvis du lurer på hva jeg forsker på kan du sjekke ut [github](https://github.com/roarstovner), [nva](https://nva.sikt.no/research-profile/788603) eller [openalex](https://openalex.org/authors/a5025831405).
@@ -24,4 +24,4 @@ Her finner du ulike ting jeg har laget.
 
 ## Verktøy
 
-- [**WISEflow-samler**](https://wiseflow-samler.roarstovner.no): Samler studentenes besvarelser i WISEflow til én PDF, slik at det går an å printe dem
+- [**WISEflow-samler**](https://wiseflow-samler.roarstovner.no): Samler studentenes besvarelser i WISEflow til én PDF, slik at det går an å printe dem.
