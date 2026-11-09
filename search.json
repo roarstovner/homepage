@@ -2,15 +2,22 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Hei!",
+    "title": "Roar Stovner",
     "section": "",
-    "text": "Jeg utdanner matematikklærere og forsker. Denne siden eksisterer ennå kun for å lenke til undervisningsmateriell. Sjekk lenkene på toppen av siden!"
+    "text": "Jeg utdanner matematikklærere og forsker. Hvis du lurer på hva jeg forsker på kan du sjekke ut github, nva eller openalex.\nHer finner du ulike ting jeg har laget."
   },
   {
-    "objectID": "blogg.html",
-    "href": "blogg.html",
-    "title": "Roar Stovners norske blogg",
-    "section": "",
-    "text": "No matching items"
+    "objectID": "index.html#læremidler",
+    "href": "index.html#læremidler",
+    "title": "Roar Stovner",
+    "section": "Læremidler",
+    "text": "Læremidler\n\nKvantitativ metode for lærere: En lærebok i kvantitativ metode skrevet for lærere og lærerstudenter.\nBedre masterskriving for lærerstudenter: En bok med tips til hvert kapittel i masteroppgaven."
+  },
+  {
+    "objectID": "index.html#verktøy",
+    "href": "index.html#verktøy",
+    "title": "Roar Stovner",
+    "section": "Verktøy",
+    "text": "Verktøy\n\nWISEflow-samler: Samler studentenes besvarelser i WISEflow til én PDF, slik at det går an å printe dem."
   }
 ]
