@@ -1,9 +1,27 @@
 ---
-title: "Hei!"
+title: "Roar Stovner"
 pagetitle: "Roar Stovner"
 image: roarbs-press-crop.jpg
 about:
-  template: jolla
+  template: trestles
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/roarstovner
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/roarstovner.bsky.social
 ---
 
-Jeg utdanner matematikklærere og forsker. Denne siden eksisterer ennå kun for å lenke til undervisningsmateriell. Sjekk lenkene på toppen av siden!
+Jeg utdanner matematikklærere og forsker. Hvis du lurer på hva jeg forsker på kan du sjekke ut [github](https://github.com/roarstovner), [nva](https://nva.sikt.no/research-profile/788603) eller [openalex](https://openalex.org/authors/a5025831405).
+
+Her finner du ulike ting jeg har laget.
+
+## Læremidler
+
+- [**Kvantitativ metode for lærere**](https://kvant.roarstovner.no): En lærebok i kvantitativ metode skrevet for lærere og lærerstudenter.
+- [**Bedre masterskriving for lærerstudenter**](https://masterboka.roarstovner.no): En bok med tips til hvert kapittel i masteroppgaven.
+
+## Verktøy
+
+- [**WISEflow-samler**](https://wiseflow-samler.roarstovner.no): Samler studentenes besvarelser i WISEflow til én PDF, slik at det går an å printe dem
